@@ -14,7 +14,8 @@ This project demonstrates the implementation of a Library Management System usin
 2. CRUD Operation: Perform Create, Read, Update, and Delete operations on the data.
 3. Advanced SQL Queries: Develop complex queries to analyze and retrieve specific data.
 
-
+## ER Diagram
+![image](https://github.com/user-attachments/assets/326981d5-a8a0-43f2-9ee5-1eb06651eca9)
 
 
 ## CONCLUSION
